@@ -1,4 +1,4 @@
-# SCC150_couse
+# SCC150_course
 The task1 for this practical is to write an assembler program which can multiply two integer numbers.
 (not use the mult instruction, Instead, the program should perform the multiplication using the Ethiopian Multiplication.
 Multiplication of two numbers is achieved using shift operations and simple addition.)
